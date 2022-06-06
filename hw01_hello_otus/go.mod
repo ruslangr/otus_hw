@@ -1,4 +1,4 @@
-module hw01_hello_otus
+module github.com/ruslangr/otus_hw/hw01_hello_otus
 
 go 1.16
 
