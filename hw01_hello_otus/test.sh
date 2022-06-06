@@ -1,4 +1,4 @@
-git commit -am "HW1 is completed"git commit -am "HW1 is completed"#!/usr/bin/env bash
+#!/usr/bin/env bash
 set -xeuo pipefail
 
 expected='!SUTO ,olleH'
